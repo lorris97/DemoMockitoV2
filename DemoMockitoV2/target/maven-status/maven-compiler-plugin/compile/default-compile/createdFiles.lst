@@ -1,0 +1,9 @@
+Service\MedecinService.class
+Connection\BDD.class
+DAO\PatientDAO.class
+Service\ConsultationService.class
+DAO\ImedecinDAO.class
+BO\MedecinBO.class
+DAO\MedecinDAO.class
+BO\PatientBO.class
+BO\PersonneBO.class
